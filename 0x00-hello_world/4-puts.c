@@ -1,10 +1,10 @@
 #include <stdio.h>
- /** 
-  * main - program that prints exactly
-  * Return:(0) 
-  */
-int main (void)
+/** 
+ * main - program that prints
+ * Return:0 (sucess)
+ */
+int main(void)
 {
-puts("Programming is like building a multilingual puzzle"\n);
+puts("\"Programming is like building a multilingual puzzle");
 return(0);
 }
