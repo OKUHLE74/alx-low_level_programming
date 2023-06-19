@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - entry point
- * Return: Always 0 (success)
+ *main - entry point
+ *Return: Always 0 (Success)
  */
 
 int main(void)
@@ -13,7 +13,7 @@ int main(void)
 
 	for (d = '0'; d <= '9'; d++)
 	putchar(d);
-	putchaar('\n');
+	putchar('\n');
 
 	return (0);
 }
