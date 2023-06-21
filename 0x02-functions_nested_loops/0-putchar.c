@@ -3,7 +3,7 @@
  * main - a program that prints
  * Return 0 (Success)
  */
-int main(void)	
+int main(void)
 
 {
 	_putchar('_');
@@ -14,7 +14,7 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
+
 	_putchar('\n');
-     
 return (0);
 }
