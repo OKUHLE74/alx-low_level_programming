@@ -1,4 +1,4 @@
-#nclude "main.h"
+#include "main.h"
 /**
  *_isupper - check if a letter is upper
  *@x: The number to be checked
