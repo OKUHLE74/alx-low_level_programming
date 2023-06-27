@@ -2,7 +2,7 @@
 
 /**
  * _atoi - convert a strung to an interger
- * @s: The pointer ro convert
+ * @s: The pointer to convert
  * Return: A interger
  */
 
@@ -31,6 +31,6 @@ int _atoi(char *s)
 	}
 	c++;
 	}
-	no *= min;
+	ni *= min;
 	return (ni);
 }
