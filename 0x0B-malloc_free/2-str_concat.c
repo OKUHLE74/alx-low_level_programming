@@ -4,12 +4,11 @@
 
 /**
  * str_concat - concatenates two strings of any size
- * @s1 - the first string to concatenate
- * @s2 - the second string to concatenate
+ * @s1: - the first string to concatenate
+ * @s2: - the second string to concatenate
  *
  * Return: the two string concatenated
  */
-
 char *str_concat(char *s1, char *s2)
 {
 	int i = 0, j = 0, k = 0, l = 0;
